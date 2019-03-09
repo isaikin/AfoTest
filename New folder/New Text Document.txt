@@ -1,2 +1,6 @@
 sdfsdf
+<<<<<<< HEAD
 sdlfgklasd
+=======
+,.dfjgjksdghfkjasdklglf
+>>>>>>> newBranch
